@@ -1,0 +1,8 @@
+gta6-trophy-rarity-forecast-01-kit/
+kit
+kit.tar.gz
+node_modules
+__pycache__
+*.pyc
+Makefile
+run.sh
